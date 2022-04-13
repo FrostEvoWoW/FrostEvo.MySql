@@ -1,4 +1,4 @@
-# FrostEvo.Core
+# FrostEvo.MySql
 
 An entity framework core database with 3 contexts built on .net6 to provide databasing other solutions 
 i.e Auth Server / World Server / Website.
