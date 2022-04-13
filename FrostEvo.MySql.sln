@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostEvo.MySql.User", "FrostEvo.MySql.User\FrostEvo.MySql.User.csproj", "{CD97E7FA-6FB9-4464-BD82-F731AC7BFB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostEvo.MySql.World", "FrostEvo.MySql.World\FrostEvo.MySql.World.csproj", "{B149457C-D5CA-440A-A23D-DD3EAF919143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostEvo.MySql.Web", "FrostEvo.MySql.Web\FrostEvo.MySql.Web.csproj", "{B51E0D6F-1C4E-4790-BE98-21394EFB1CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrostEvo.MySql.Domain", "FrostEvo.MySql.Domain\FrostEvo.MySql.Domain.csproj", "{3990B161-F4B9-4F4D-8E25-E0E43F30C293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD97E7FA-6FB9-4464-BD82-F731AC7BFB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD97E7FA-6FB9-4464-BD82-F731AC7BFB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD97E7FA-6FB9-4464-BD82-F731AC7BFB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD97E7FA-6FB9-4464-BD82-F731AC7BFB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B149457C-D5CA-440A-A23D-DD3EAF919143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B149457C-D5CA-440A-A23D-DD3EAF919143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B149457C-D5CA-440A-A23D-DD3EAF919143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B149457C-D5CA-440A-A23D-DD3EAF919143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51E0D6F-1C4E-4790-BE98-21394EFB1CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51E0D6F-1C4E-4790-BE98-21394EFB1CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51E0D6F-1C4E-4790-BE98-21394EFB1CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51E0D6F-1C4E-4790-BE98-21394EFB1CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3990B161-F4B9-4F4D-8E25-E0E43F30C293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3990B161-F4B9-4F4D-8E25-E0E43F30C293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3990B161-F4B9-4F4D-8E25-E0E43F30C293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3990B161-F4B9-4F4D-8E25-E0E43F30C293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
